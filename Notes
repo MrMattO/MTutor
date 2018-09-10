@@ -1,0 +1,14 @@
+Note:
+•	The’ level’, achievement’, ‘time to start’ and ‘tutor selected’ can all also be parametrised
+•	Page Object Factory can be applied throughout the test
+•	Exception handling can also be applied throughout the test
+•	Browser not closed so final page can be viewed
+
+Other Functional Testing:
+1.	Field attributes (often invalid entry), e.g. Entering Too many characters or letters for phone number
+2.	Invalid characters, e.g. email with no ‘@’ sign
+3.	Check - Does ‘Show’ password display password
+4.	Checking each page matches the expected display for each icon, description or button etc
+5.	Using the <Skip> button during workflow
+6.	Not entering all User information when signing up
+7.	Amending the options from the tutor search results (e.g. change the subject)
